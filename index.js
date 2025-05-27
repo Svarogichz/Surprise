@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('I knew u would say yes >:3   ')
+    alert('I knew u would say yes   ')
 });
 
 const noBtn = document.querySelector('#noBtn');
